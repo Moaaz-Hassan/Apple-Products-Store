@@ -2,7 +2,7 @@ import React, { useState  } from 'react'
 import Controls from './components/Controls'
 import Navbar from './components/Navbar';
 import Home from './components/Home';
-import Iphone from './components/iphone';
+import Iphone from './components/Iphone';
 import MacBook from './components/MacBook';
 import Watch from './components/Watch';
 import Imack from './components/Imack';
