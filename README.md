@@ -44,7 +44,7 @@ The goal of the project is to simulate a real online store experience while keep
 
 ---
 
-# [Click here to see the live demo](https://hi-link.com)
+# [Click here to see the live demo](https://apple-products-store-mrcg.vercel.app/#)
 
 <p align="center">
   <img src="./Macbook-Air-localhost.png" width="400" />
